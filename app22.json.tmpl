@@ -1,0 +1,13 @@
+[
+  {
+    "image": "teymurgahramanov/app22:${image_tag}",
+    "name": "app22",
+    "networkMode": "awsvpc",
+    "portMappings": [
+      {
+        "containerPort": ${app_port},
+        "hostPort": ${app_port}
+      }
+    ]
+  }
+]
