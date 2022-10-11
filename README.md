@@ -1,6 +1,6 @@
 # AWS Infrastructure for  [App22](https://github.com/teymurgahramanov/app22) with Terraform
 
-Used AWS services and features:
+### Used AWS services and features:
 - Elastic Container Service
 - Application Load Balancer
 - Relational Database Service
@@ -12,7 +12,7 @@ Used AWS services and features:
 - Security Groups
 - Secrets Manager
 
-Used Terraform features:
+### Used Terraform features:
 - Conditional resource creation
 - Dynamic variables
 - Sensitive variables
