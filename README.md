@@ -1,6 +1,4 @@
-# AWS Infrastructure for App22 with Terraform
-
-Terraform project for provisioning AWS infrastructure for [App22](https://github.com/teymurgahramanov/app22)
+# AWS Infrastructure for  [App22](https://github.com/teymurgahramanov/app22) with Terraform
 
 Used AWS services and features:
 - Elastic Container Service
